@@ -21,3 +21,23 @@ O
 collectionsInPython/__List__.py,7\d\7d16b4d2991ec35f6cf0dce62842d6ffdf011774
 X
 (collectionsInPython/_accessListitems_.py,b\9\b94f24a5b389af0b1663c0e4085d24a1c4e0a8a6
+`
+0collectionsInPython/_lists_/_accessListitems_.py,f\a\fa613aa11a122593ca48461dd5f1fb414c41f9a4
+W
+'collectionsInPython/_lists_/__List__.py,c\3\c3230e1971beb0d85b0e32bcdced112eefb34657
+[
++collectionsInPython/_lists_/_changeList_.py,f\0\f0f43b953ce43ba5a0c3a3ec970a4a6b2253bd8e
+\
+,collectionsInPython/_lists_/_extendsList_.py,b\8\b8ebec697a6cf21f72aa9222522c0d9b1dee315e
+_
+/collectionsInPython/_lists_/_removeListitem_.py,6\d\6dfcb2248bcd06dd10256ba957598ee0ce6954f5
+\
+,collectionsInPython/_lists_/_loopingList_.py,3\1\3181786eb20a532509db50f1e46069a5983e48ab
+O
+ClassesAndObjects/FirstClass.py,3\f\3f65b247b98a60e7c854075f64b300ca468ce848
+K
+ClassesAndObjects/Person.py,b\4\b480de8912fccc6d83394ae746c8376c70a81539
+J
+Inheritance/PersonClass.py,2\2\22c9728da105c2504fb64c3961bfca08b727a654
+I
+Inheritance/ChildClass.py,e\0\e04f163a08fb9370896b65bfd115a84df738c915
